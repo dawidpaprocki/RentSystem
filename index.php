@@ -28,12 +28,10 @@
           </ul>
         </div>
         <div style="    margin-left: -60%;  margin-top: -20%;">
-
           <img src="note.png" height="700" width="700">
         </div>
       </div>
     </div>
   </div>
 </body>
-33
 </html>
