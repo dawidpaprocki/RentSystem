@@ -1,0 +1,69 @@
+.fc td {
+  border-width: 2px;
+}
+
+#calendar {
+  z-index: 2 !important;
+  background-color: #f4f4f4 !important;
+}
+
+/* .darker { position: absolute; top: 0px; left: 0px; background-color: #000; opacity: 0.2; width: 100%; height: 100%; } */
+.fc-toolbar {
+  background-color: #eeeeee;
+}
+
+body {
+  font-family: arial !important;
+  background: url('frame.jpg');
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+ul li {
+    list-style: none;
+  margin: 0 0 5% 0;
+  vertical-align: top
+}
+li span {
+  position: relative;
+  left: 10px;
+}
+h2{
+    text-align: center;
+}
+.fa-ul{
+    margin-top: 15%;
+
+}
+/* .note-img {
+
+     z-index: 5;
+  background: url('note.png');
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-position: center;
+  background-size: cover;
+} */
+.col-9{
+  z-index: 0;
+}
+
+.note-text {
+  font-size: 16px;
+  margin-top: 33%;
+}
+
+.mouseposition-extension-element-full-container {
+  height: 20px !important;
+}
+
+@media (min-width: 1200px) {
+  .container {
+    width: 1350px !important;
+  }
+}
