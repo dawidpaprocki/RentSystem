@@ -30,10 +30,13 @@
         <div style="    margin-left: -60%;  margin-top: -20%;">
           <img src="note.png" height="700" width="700">
         </div>
-          <div class="col-9" style="    padding-left: 10%;">
-              <div id="calendar"></div>
+          <div style="    margin-left: -25%;  margin-top: -20%;">
+              <img src="photoAir.png" height="609" width="500">
           </div>
       </div>
+        <div class="col-9" style="    padding-left: 10%;">
+            <div id="calendar"></div>
+        </div>
     </div>
   </div>
 </body>
